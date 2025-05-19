@@ -25,3 +25,14 @@ This project implements a **Neural Machine Translation (NMT)** system using an *
 
 ## 📂 Folder Structure
 
+
+## 📷 UI Preview
+
+![Translation UI](https://user-images.githubusercontent.com/your-screenshot-link-here.png) <!-- Optional if you want to add a screenshot -->
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/HariharanAX/LANGUAGE-TRANSLATION-MODEL.git
+cd LANGUAGE-TRANSLATION-MODEL
